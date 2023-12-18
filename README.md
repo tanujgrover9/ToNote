@@ -1,3 +1,7 @@
+![Screenshot (1266)](https://github.com/tanujgrover9/ToNote/assets/84788236/47ba0fa9-9710-4f7b-8eb0-44543634171d)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
